@@ -10,6 +10,26 @@ The platform combines a public-facing website with content management, services,
 
 This is the first flagship project developed under the **Clean Stack** brand.
 
+## Screenshots
+
+<table>
+<tr>
+<td><img src="docs/screenshots/01-home.png" alt="Clean Stack Platform home page"></td>
+<td><img src="docs/screenshots/02-about.png" alt="Clean Stack Platform about page"></td>
+<td><img src="docs/screenshots/03-services.png" alt="Clean Stack Platform services page"></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/04-service-detail.png" alt="Clean Stack Platform service detail page"></td>
+<td><img src="docs/screenshots/05-projects.png" alt="Clean Stack Platform projects page"></td>
+<td><img src="docs/screenshots/06-blog.png" alt="Clean Stack Platform blog page"></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/07-admin-posts.png" alt="Clean Stack Platform admin posts page"></td>
+<td><img src="docs/screenshots/08-admin-post-edit.png" alt="Clean Stack Platform admin post editor"></td>
+<td><img src="docs/screenshots/09-admin-leads.png" alt="Clean Stack Platform admin leads page"></td>
+</tr>
+</table>
+
 ## Core Features
 
 * **Public Website**
